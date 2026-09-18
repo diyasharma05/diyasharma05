@@ -14,7 +14,7 @@ Engineer · Researcher · Poet · Classical Vocalist
 
 ## Bio
 
-Hello! I'm Diya Sharma, an engineer and a researcher who likes owning the whole journey of data, from the sensor that emits the first byte to the model and the dashboard that make sense of it. Beyond the technical side, I'm also a poet, a trained classical vocalist, and a badminton player, which keeps the journey creative. ✨
+Hello! I'm Diya Sharma, an engineer and a researcher who likes owning the whole journey of data, from the sensor that emits the first byte to the model and the dashboard that make sense of it. I'm currently a student at **IIT Kharagpur**. Beyond the technical side, I'm also a poet, a trained classical vocalist, and a badminton player, which keeps the journey creative. ✨
 
 ---
 
