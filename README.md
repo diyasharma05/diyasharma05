@@ -1,6 +1,5 @@
 <div align="center">
 
-<!-- PHOTO: drop your picture at assets/profile.png (a square, circle-cropped PNG looks best) -->
 <img src="assets/profile.png" width="170" alt="Diya Sharma" />
 
 # Hi, I'm Diya Sharma 👋
