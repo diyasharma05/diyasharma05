@@ -5,8 +5,6 @@
 
 # Hi, I'm Diya Sharma 👋
 
-**Founding Engineer @ Intelligence Factory (YC 2026) · BS-MS, IIT Kharagpur '27**
-
 Engineer · Researcher · Poet · Classical Vocalist
 
 <!-- LINKEDIN: replace YOUR-LINKEDIN-URL below -->
