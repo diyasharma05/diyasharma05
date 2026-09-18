@@ -7,7 +7,7 @@
 
 **Founding Engineer @ Intelligence Factory (YC 2026) · BS-MS, IIT Kharagpur '27**
 
-Data infrastructure · Machine learning · Robotics · Computer vision
+Engineer · Researcher · Poet · Classical Vocalist
 
 <!-- LINKEDIN: replace YOUR-LINKEDIN-URL below -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR-LINKEDIN-URL)
@@ -20,7 +20,7 @@ Data infrastructure · Machine learning · Robotics · Computer vision
 
 ## Bio
 
-Hello! I'm Diya Sharma, an engineer and a researcher who likes owning the whole journey of data, from the sensor that emits the first byte to the model and the dashboard that make sense of it. I'm a final-year BS-MS student at **IIT Kharagpur** and a **Founding Engineer at Intelligence Factory (YC 2026)**, where I build pipelines that move terabytes of multimodal sensor data every day. Along the way I've taught quadruped robots to walk at **TU Munich**, taught cameras to spot defects at **Caltech**, and turned thirty dashboards into a single conversation at **Ixigo**. Away from the keyboard I'm a trained classical vocalist, a former student newspaper editor, a competition-winning public speaker, and a badminton player with a silver medal to defend. ✨
+Hello! I'm Diya Sharma, an engineer and a researcher who enjoys building things with data, from the first raw byte to the model that makes sense of it. Beyond the technical side, I'm also a poet, a trained classical vocalist, and a badminton player, which keeps the journey creative. ✨
 
 ---
 
