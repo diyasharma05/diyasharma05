@@ -54,5 +54,5 @@ Hello! I'm Diya Sharma, an engineer and a researcher who likes owning the whole 
 
 ## Publications 📄
 
-- **A Machine Learning Approach to Optimize Water Consumption for Rice Crop** - 4th ICDSA 2023, published in *Lecture Notes in Networks and Systems*, Vol. 819, Springer.
-- **A Robotic Way to Investigate Unapproachable Places and Inaccessible Substances Using E-Skin** - 2nd PEIS 2024, published in *Lecture Notes in Networks and Systems*, Vol. 1246, Springer.
+- **[A Machine Learning Approach to Optimize the Water Consumption for Irrigation of Rice Crop](https://doi.org/10.1007/978-981-99-7820-5_31)** - 4th ICDSA 2023, published in *Lecture Notes in Networks and Systems*, Vol. 819, Springer.
+- **[A Robotic Way to Investigate Unapproachable Places and Inaccessible Substances Using E-Skin](https://www.researchgate.net/publication/385349020_A_Robotic_Way_to_Investigate_Unapproachable_Places_and_Inaccessible_Substances_Using_e-skin)** - 2nd PEIS 2024, published in *Lecture Notes in Networks and Systems*, Vol. 1246, Springer.
