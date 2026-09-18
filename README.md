@@ -4,7 +4,7 @@
 
 # Hi, I'm Diya Sharma 👋
 
-Engineer · Researcher · Poet · Classical Vocalist
+Engineer · Researcher · Poet
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diya-sharma-6a2210272/) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diyasharmaptl@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/diyasharma05)
 
@@ -14,7 +14,7 @@ Engineer · Researcher · Poet · Classical Vocalist
 
 ## Bio
 
-Hello! I'm Diya Sharma, an engineer and a researcher who likes owning the whole journey of data, from the sensor that emits the first byte to the model and the dashboard that make sense of it. I'm currently a student at **IIT Kharagpur**. Beyond the technical side, I'm also a poet, a trained classical vocalist, and a badminton player, which keeps the journey creative. ✨
+Hello! I'm Diya Sharma, an engineer and a researcher who likes owning the whole journey of data, from the sensor that emits the first byte to the model and the dashboard that make sense of it. I'm currently a student at **IIT Kharagpur**. Beyond the technical side, I'm also a poet and a badminton player, which keeps the journey creative. ✨
 
 ---
 
