@@ -18,17 +18,9 @@ Data infrastructure · Machine learning · Robotics · Computer vision
 
 ---
 
-## About me
+## Bio
 
-I'm a final-year BS-MS student at **IIT Kharagpur** who builds data and ML systems end to end: ingestion, infrastructure, modelling, and the analytics layer on top.
-
-- 🏗️ **Founding Engineer at Intelligence Factory (YC 2026)** — built the ingestion, cloud, and QC pipelines that process **2.4 TB+ of multimodal sensor data a day** across 40 edge devices. Awarded a pre-placement offer.
-- 📊 **Data Science Intern at Ixigo** — unified 30+ BI dashboards into a natural-language, Text-to-SQL interface over ClickHouse (LangChain + Llama-3).
-- 🤖 **Research Intern at TU Munich** — reinforcement-learning locomotion policies for quadrupeds; sim-to-real with PyBullet and ROS.
-- 👁️ **Live Project at Caltech** — industrial defect detection with YOLO and a fine-tuned SAM.
-- 📝 Two peer-reviewed papers published by **Springer (LNNS)**.
-
-Currently working on causal inference over scientific publishing data — difference-in-differences panels built on OpenAlex.
+Hello! I'm Diya Sharma, an engineer and a researcher who likes owning the whole journey of data, from the sensor that emits the first byte to the model and the dashboard that make sense of it. I'm a final-year BS-MS student at **IIT Kharagpur** and a **Founding Engineer at Intelligence Factory (YC 2026)**, where I build pipelines that move terabytes of multimodal sensor data every day. Along the way I've taught quadruped robots to walk at **TU Munich**, taught cameras to spot defects at **Caltech**, and turned thirty dashboards into a single conversation at **Ixigo**. Away from the keyboard I'm a trained classical vocalist, a former student newspaper editor, a competition-winning public speaker, and a badminton player with a silver medal to defend. ✨
 
 ---
 
