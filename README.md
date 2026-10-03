@@ -14,7 +14,25 @@ Engineer · Researcher · Poet
 
 ## Bio
 
+<a href="https://github.com/diyasharma05?tab=repositories">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/diyasharma05/diyasharma05/output/top-langs-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/diyasharma05/diyasharma05/output/top-langs-light.svg">
+    <img align="left" alt="Most used languages" src="https://raw.githubusercontent.com/diyasharma05/diyasharma05/output/top-langs-dark.svg">
+  </picture>
+</a>
+
 Hello! I'm Diya Sharma, an engineer and a researcher who likes owning the whole journey of data, from the sensor that emits the first byte to the model and the dashboard that make sense of it. I'm currently a student at **IIT Kharagpur**. Beyond the technical side, I'm also a poet and a badminton player, which keeps the journey creative. ✨
+
+<br clear="both" />
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/diyasharma05/diyasharma05/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/diyasharma05/diyasharma05/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/diyasharma05/diyasharma05/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 
 ---
 

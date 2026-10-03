@@ -1,0 +1,85 @@
+name: Generate profile assets
+
+# Builds the images embedded in README.md and publishes them to the `output`
+# branch, so the profile never depends on a shared third-party server:
+#   - contribution-grid snake animation (Platane/snk)
+#   - "most used languages" card, rendered by a pinned copy of
+#     anuraghazra/github-readme-stats running inside this job
+
+on:
+  schedule:
+    - cron: "17 0 * * *" # daily, 00:17 UTC
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-assets
+  cancel-in-progress: true
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    env:
+      GH_USER: ${{ github.repository_owner }}
+    steps:
+      - name: Check out github-readme-stats (pinned)
+        uses: actions/checkout@v7
+        with:
+          repository: anuraghazra/github-readme-stats
+          ref: 54a7985aeefda00d5eadb55b80c17c7f976c37d2
+          path: grs
+
+      - name: Generate contribution snake
+        uses: Platane/snk/svg-only@v3.5.0
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Set up Node
+        uses: actions/setup-node@v7
+        with:
+          node-version-file: grs/.nvmrc
+          cache: npm
+          cache-dependency-path: grs/package-lock.json
+
+      - name: Render language cards
+        working-directory: grs
+        env:
+          PAT_1: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -euo pipefail
+          npm ci --ignore-scripts
+          node express.js &
+          server_pid=$!
+          trap 'kill "$server_pid" 2>/dev/null || true' EXIT
+
+          for _ in $(seq 1 30); do
+            curl -s -o /dev/null "http://localhost:9000/" && break
+            sleep 1
+          done
+
+          base="http://localhost:9000/api/top-langs/?username=${GH_USER}&layout=compact&hide=jupyter%20notebook&hide_border=true"
+          curl -fsS "${base}&theme=catppuccin_mocha" -o ../dist/top-langs-dark.svg
+          curl -fsS "${base}&theme=catppuccin_latte" -o ../dist/top-langs-light.svg
+
+          if grep -q "Something went wrong" ../dist/top-langs-*.svg; then
+            echo "::error::github-readme-stats returned an error card"
+            cat ../dist/top-langs-dark.svg
+            exit 1
+          fi
+          ls -la ../dist
+
+      - name: Publish to output branch
+        uses: crazy-max/ghaction-github-pages@v5
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
