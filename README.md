@@ -38,12 +38,17 @@ Hello! I'm Diya Sharma, an engineer and a researcher who likes owning the whole 
 
 ## Technical skills
 
-| Area | Stack |
-|---|---|
-| **Languages** | `Python` `C` `C++` `SQL` `R` `MATLAB` |
-| **Machine learning & data** | `PyTorch` `TensorFlow` `scikit-learn` `NumPy` `Pandas` `OpenCV` `Hugging Face` `spaCy` `LangChain` `XGBoost` `LightGBM` `CatBoost` |
-| **Data infrastructure & cloud** | `AWS` `Kubernetes (EKS)` `Docker` `Ray` `PostgreSQL` `ClickHouse` `LanceDB` `Grafana` |
-| **Robotics & tools** | `ROS` `Gazebo` `PyBullet` `Git` `Tableau` `Redash` `MCP` |
+### Languages 💻
+![Python](https://img.shields.io/badge/Python-3d444d?style=flat-square&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-3d444d?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-3d444d?style=flat-square&logo=cplusplus&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-3d444d?style=flat-square&logo=postgresql&logoColor=white) ![R](https://img.shields.io/badge/R-3d444d?style=flat-square&logo=r&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-3d444d?style=flat-square)
+
+### Machine learning & data 🧠
+![PyTorch](https://img.shields.io/badge/PyTorch-3d444d?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-3d444d?style=flat-square&logo=tensorflow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-3d444d?style=flat-square&logo=scikitlearn&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-3d444d?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-3d444d?style=flat-square&logo=pandas&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-3d444d?style=flat-square&logo=opencv&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-3d444d?style=flat-square&logo=huggingface&logoColor=white) ![spaCy](https://img.shields.io/badge/spaCy-3d444d?style=flat-square&logo=spacy&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-3d444d?style=flat-square&logo=langchain&logoColor=white) ![XGBoost / LightGBM / CatBoost](https://img.shields.io/badge/XGBoost%20%2F%20LightGBM%20%2F%20CatBoost-3d444d?style=flat-square)
+
+### Data infrastructure & cloud ☁️
+![AWS](https://img.shields.io/badge/AWS-3d444d?style=flat-square&logo=amazonwebservices&logoColor=white) ![Kubernetes (EKS)](https://img.shields.io/badge/Kubernetes%20(EKS)-3d444d?style=flat-square&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-3d444d?style=flat-square&logo=docker&logoColor=white) ![Ray](https://img.shields.io/badge/Ray-3d444d?style=flat-square&logo=ray&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3d444d?style=flat-square&logo=postgresql&logoColor=white) ![ClickHouse](https://img.shields.io/badge/ClickHouse-3d444d?style=flat-square&logo=clickhouse&logoColor=white) ![LanceDB](https://img.shields.io/badge/LanceDB-3d444d?style=flat-square) ![Grafana](https://img.shields.io/badge/Grafana-3d444d?style=flat-square&logo=grafana&logoColor=white)
+
+### Robotics & tools 🛠️
+![ROS](https://img.shields.io/badge/ROS-3d444d?style=flat-square&logo=ros&logoColor=white) ![Gazebo](https://img.shields.io/badge/Gazebo-3d444d?style=flat-square) ![PyBullet](https://img.shields.io/badge/PyBullet-3d444d?style=flat-square) ![Git](https://img.shields.io/badge/Git-3d444d?style=flat-square&logo=git&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-3d444d?style=flat-square&logo=tableau&logoColor=white) ![Redash](https://img.shields.io/badge/Redash-3d444d?style=flat-square&logo=redash&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-3d444d?style=flat-square)
 
 ---
 
