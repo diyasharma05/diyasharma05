@@ -66,7 +66,7 @@ Hello! I'm Diya Sharma, an engineer and a researcher who likes owning the whole 
 
 ## Competitions 🏆
 
-- **Finalist, Accenture Innovation Challenge 2026** - awarded a pre-placement interview.
+- **Finalist, Accenture Innovation Challenge 2026**
 - **Finalist, Nautilus Price Prediction (IIM Ahmedabad & Adani Group)** - 4.7 MAPE on power demand and price forecasting with LSTM, BiLSTM, and ARIMA.
 - **Semi-Finalist, American Express Campus Challenge 2024** - 92% precision fraud detection with CatBoost, XGBoost, and LightGBM.
 
